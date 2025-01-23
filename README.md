@@ -1,7 +1,7 @@
- Hola, mi nombre es Javier Monsalves 👋
-### Computer engineer and programmer analyst
+Hola, mi nombre es Javier Monsalves 👋
+## Computer engineer and programmer analyst
 
-![https://github.com/mouredev](./mouredev_github_profile.png)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
